@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @z4xrin
-- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning AP Computer Science
-- 💞️ I’m looking to collaborate on Github & Replit
 - 📫 How to reach me: zhussain9448@clintonhs.net
 
 <!---
